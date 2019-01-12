@@ -1,0 +1,61 @@
+body{
+	font-family: Chivo;
+	margin-left: 200px;
+	margin-right:200px;
+
+}
+header{
+	background-color: #dedede;
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1px;
+  overflow: hidden;
+  background-color: #653D3D;
+  width: 99.70%;
+ }
+     li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px  ;
+  text-decoration: none;
+  width: 100px;
+ }
+ nav li{
+ 	float: left;
+ }
+  
+ #contant{
+ 
+ 	border: 2px solid green;
+ 	width: 100%px;
+ 	height: 150px;
+ }
+ h2{
+ 	text-align: center;
+ 	font-size: 70px;
+ }
+ #blog{
+ 	height: 40px 30px;
+ 	width: 100%;
+ 	
+ }
+ h4{
+ 	text-align: left;
+ 	color: white;
+ 	background-color: #978484;
+ 	width: 100%;
+ 	
+ }
+
+  hr {
+  	border: 2px solid #978484;
+  	width: 940px;
+  }
+
+ footer {
+  	text-align: center;
+  
+  }
