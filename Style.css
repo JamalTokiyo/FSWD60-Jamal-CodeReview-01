@@ -4,21 +4,33 @@ body{
 	margin-right:200px;
 
 }
-.contant{
-  padding: 10px;
-}
+
 h3{
 
   padding: 25px;
   text-align: center;
+  margin-left: 140px;
+
 }
-nav img {
-  padding-left: -5px;
+.header h3{
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+ img {
+  padding-left: 1px;
   padding-top: 20px;
 }
-header{
+header {
 	background-color: #dedede;
+  text-align: center;
+  height: 120px;
 }
+header h3 {
+  padding-right: 250px ;
+
+}
+
   ul {
   list-style-type: none;
   margin: 0;
@@ -67,31 +79,36 @@ header{
   margin-left: 10px;
   height: 180px;
   width: 300px;
+
  }
  .scooter img{
 
-height: 180px;
+height: 190px;
 margin-left: 700px;
 margin-top: 0px;
 width: 300px;
+
 
  }
  .scooter p{
 margin-left: 700px;
  }
  .debit img{
-  
   margin-left: 10px;
   height: 180px;
   width: 300px;
+  margin-top: 2px;
+  
  }
 
 .device img{
- 
+
 height: 180px;
 margin-left: 700px;
 margin-top: 0px;
 width: 300px;
+
+
 
  }
  .device p{
