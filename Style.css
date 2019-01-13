@@ -4,6 +4,18 @@ body{
 	margin-right:200px;
 
 }
+.contant{
+  padding: 10px;
+}
+h3{
+
+  padding: 25px;
+  text-align: center;
+}
+nav img {
+  padding-left: -5px;
+  padding-top: 20px;
+}
 header{
 	background-color: #dedede;
 }
@@ -14,12 +26,13 @@ header{
   overflow: hidden;
   background-color: #653D3D;
   width: 99.70%;
+  height: 30px;
  }
      li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px  ;
+  padding: 3px ;
   text-decoration: none;
   width: 100px;
  }
@@ -46,12 +59,49 @@ header{
  	color: white;
  	background-color: #978484;
  	width: 100%;
+  height: 30px;
  	
  }
+ .phone img{
+  
+  margin-left: 10px;
+  height: 180px;
+  width: 300px;
+ }
+ .scooter img{
 
+height: 180px;
+margin-left: 700px;
+margin-top: 0px;
+width: 300px;
+
+ }
+ .scooter p{
+margin-left: 700px;
+ }
+ .debit img{
+  
+  margin-left: 10px;
+  height: 180px;
+  width: 300px;
+ }
+
+.device img{
+ 
+height: 180px;
+margin-left: 700px;
+margin-top: 0px;
+width: 300px;
+
+ }
+ .device p{
+margin-left: 700px;
+ }
   hr {
   	border: 2px solid #978484;
   	width: 940px;
+    margin-top: 500px;
+    margin-left: 100px;
   }
 
  footer {
