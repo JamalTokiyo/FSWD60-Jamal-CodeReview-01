@@ -74,9 +74,17 @@ header h3 {
   height: 30px;
  	
  }
+ #photo{
+  display: flex;
+  justify-content: space-between;
+ }
+ #dd{
+  display: flex;
+  justify-content: space-between;
+ }
  .phone img{
   
-  margin-left: 10px;
+  
   height: 180px;
   width: 300px;
 
